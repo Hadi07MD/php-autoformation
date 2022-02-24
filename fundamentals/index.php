@@ -9,7 +9,7 @@
 <body>
     
 <?php
-echo "Hello HaDi!"
+echo "Hello!"
 ?>
 
 </body>
