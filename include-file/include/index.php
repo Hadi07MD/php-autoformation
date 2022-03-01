@@ -10,6 +10,9 @@ include 'function.php';
     <?php
     include 'function.php';
     ?>
+    <?php
+    include'function.php';
+    ?>
 
 </body>
 </html>
